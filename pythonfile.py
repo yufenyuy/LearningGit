@@ -1,5 +1,5 @@
-print("learning Git!")
 
+print("learning Git!")
 def myfunction(a):
     if (a < 1):
         print("learning Git is fun")
